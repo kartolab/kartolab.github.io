@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a7b27e5.css",
+    "main.js": "/static/js/main.fe51b385.js",
+    "static/js/453.92cf0f23.chunk.js": "/static/js/453.92cf0f23.chunk.js",
+    "static/media/twig_logo.png": "/projects/twig-preview/static/media/twig_logo.b222f059c1ec916e434e.png",
+    "index.html": "/index.html",
+    "main.5a7b27e5.css.map": "/static/css/main.5a7b27e5.css.map",
+    "main.fe51b385.js.map": "/static/js/main.fe51b385.js.map",
+    "453.92cf0f23.chunk.js.map": "/static/js/453.92cf0f23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7b27e5.css",
+    "static/js/main.fe51b385.js"
+  ]
+}
